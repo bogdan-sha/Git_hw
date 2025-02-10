@@ -1,0 +1,3 @@
+Programming and automation tools
+CI/CD and version control systems
+API testing
