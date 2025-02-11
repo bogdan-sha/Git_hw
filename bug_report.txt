@@ -1,1 +1,11 @@
+Incorrect display of .txt file name in Git_hw repository
 
+STR:
+1. Go to the "Git_hw" repository
+2. Check the naming of .txt files
+
+AR:
+The file name is displayed as "sklls.txt"
+
+ER:
+The file name should be displayed as "skills.txt"
