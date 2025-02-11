@@ -1,0 +1,11 @@
+The bug_report.txt file is duplicated 
+
+STR:
+1. Go to the "Git_hw" repository
+2. Check .txt files
+
+AR:
+Two files bug_report.txt existing
+
+ER:
+One file bug_report.txt existing
