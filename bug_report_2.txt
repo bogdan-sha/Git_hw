@@ -1,0 +1,11 @@
+The 3 files of bug_report.txt displayed in repo
+
+STR:
+1. Go to the "Git_hw" repository
+2. Check .txt files
+
+AR:
+3 files of bug_report.txt existing
+
+ER:
+Only one file bug_report.txt existing
